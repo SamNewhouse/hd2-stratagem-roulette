@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "category": 1,
+    "name": "Eagle 110MM Rocket Pods",
+    "icon": "eagle-110mm-rocket-pods.svg"
+  },
+  {
+    "id": 2,
+    "category": 1,
+    "name": "Eagle 500KG Bomb",
+    "icon": "eagle-500kg-bomb.svg"
+  },
+  {
+    "id": 3,
+    "category": 1,
+    "name": "Eagle Airstrike",
+    "icon": "eagle-airstrike.svg"
+  },
+  {
+    "id": 4,
+    "category": 1,
+    "name": "Eagle Cluster Bomb",
+    "icon": "eagle-cluster-bomb.svg"
+  },
+  {
+    "id": 5,
+    "category": 1,
+    "name": "Eagle Napalm Airstrike",
+    "icon": "eagle-napalm-airstrike.svg"
+  },
+  {
+    "id": 6,
+    "category": 1,
+    "name": "Eagle Smoke Strike",
+    "icon": "eagle-smoke-strike.svg"
+  },
+  {
+    "id": 7,
+    "category": 1,
+    "name": "Eagle Strafing Run",
+    "icon": "eagle-strafing-run.svg"
+  },
+  {
+    "id": 8,
+    "category": 1,
+    "name": "Orbital 120MM HE Barrage",
+    "icon": "orbital-120mm-he-barrage.svg"
+  },
+  {
+    "id": 9,
+    "category": 1,
+    "name": "Orbital 380MM HE Barrage",
+    "icon": "orbital-380mm-he-barrage.svg"
+  },
+  {
+    "id": 10,
+    "category": 1,
+    "name": "Orbital Airburst Strike",
+    "icon": "orbital-airburst-strike.svg"
+  },
+  {
+    "id": 11,
+    "category": 1,
+    "name": "Orbital EMS Strike",
+    "icon": "orbital-ems-strike.svg"
+  },
+  {
+    "id": 12,
+    "category": 1,
+    "name": "Orbital Gas Strike",
+    "icon": "orbital-gas-strike.svg"
+  },
+  {
+    "id": 13,
+    "category": 1,
+    "name": "Orbital Gatling Barrage",
+    "icon": "orbital-gatling-barrage.svg"
+  },
+  {
+    "id": 14,
+    "category": 1,
+    "name": "Orbital Laser",
+    "icon": "orbital-laser.svg"
+  },
+  {
+    "id": 15,
+    "category": 1,
+    "name": "Orbital Napalm Barrage",
+    "icon": "orbital-napalm-barrage.svg"
+  },
+  {
+    "id": 16,
+    "category": 1,
+    "name": "Orbital Precision Strike",
+    "icon": "orbital-precision-strike.svg"
+  },
+  {
+    "id": 17,
+    "category": 1,
+    "name": "Orbital Railcannon Strike",
+    "icon": "orbital-railcannon-strike.svg"
+  },
+  {
+    "id": 18,
+    "category": 1,
+    "name": "Orbital Smoke Strike",
+    "icon": "orbital-smoke-strike.svg"
+  },
+  {
+    "id": 19,
+    "category": 1,
+    "name": "Orbital Walking Barrage",
+    "icon": "orbital-walking-barrage.svg"
+  },
+  {
+    "id": 20,
+    "category": 2,
+    "name": "Airburst Rocket Launcher",
+    "icon": "airburst-rocket-launcher.svg"
+  },
+  {
+    "id": 21,
+    "category": 2,
+    "name": "Anti-Materiel Rifle",
+    "icon": "anti-materiel-rifle.svg"
+  },
+  {
+    "id": 22,
+    "category": 2,
+    "name": "Arc Thrower",
+    "icon": "arc-thrower.svg"
+  },
+  {
+    "id": 23,
+    "category": 2,
+    "name": "Autocannon",
+    "icon": "autocannon.svg"
+  },
+  {
+    "id": 24,
+    "category": 2,
+    "name": "Ballistic Shield Backpack",
+    "icon": "ballistic-shield-backpack.svg"
+  },
+  {
+    "id": 25,
+    "category": 2,
+    "name": "Commando",
+    "icon": "commando.svg"
+  },
+  {
+    "id": 26,
+    "category": 2,
+    "name": "Directional Shield",
+    "icon": "directional-shield.svg"
+  },
+  {
+    "id": 27,
+    "category": 2,
+    "name": "Emancipator Exosuit",
+    "icon": "emancipator-exosuit.svg"
+  },
+  {
+    "id": 28,
+    "category": 2,
+    "name": "Expendable Anti-Tank",
+    "icon": "expendable-anti-tank.svg"
+  },
+  {
+    "id": 29,
+    "category": 2,
+    "name": "Fast Recon Vehicle",
+    "icon": "fast-recon-vehicle.svg"
+  },
+  {
+    "id": 30,
+    "category": 2,
+    "name": "Flamethrower",
+    "icon": "flamethrower.svg"
+  },
+  {
+    "id": 31,
+    "category": 2,
+    "name": "Grenade Launcher",
+    "icon": "grenade-launcher.svg"
+  },
+  {
+    "id": 32,
+    "category": 2,
+    "name": "Guard Dog Breath",
+    "icon": "guard-dog-breath.svg"
+  },
+  {
+    "id": 33,
+    "category": 2,
+    "name": "Guard Dog Rover",
+    "icon": "guard-dog-rover.svg"
+  },
+  {
+    "id": 34,
+    "category": 2,
+    "name": "Guard Dog",
+    "icon": "guard-dog.svg"
+  },
+  {
+    "id": 35,
+    "category": 2,
+    "name": "Heavy Machine Gun",
+    "icon": "heavy-machine-gun.svg"
+  },
+  {
+    "id": 36,
+    "category": 2,
+    "name": "Hellbomb Portable",
+    "icon": "hellbomb-portable.svg"
+  },
+  {
+    "id": 37,
+    "category": 2,
+    "name": "Hover Pack",
+    "icon": "hover-pack.svg"
+  },
+  {
+    "id": 38,
+    "category": 2,
+    "name": "Jump Pack",
+    "icon": "jump-pack.svg"
+  },
+  {
+    "id": 39,
+    "category": 2,
+    "name": "Laser Cannon",
+    "icon": "laser-cannon.svg"
+  },
+  {
+    "id": 40,
+    "category": 2,
+    "name": "Machine Gun",
+    "icon": "machine-gun.svg"
+  },
+  {
+    "id": 41,
+    "category": 2,
+    "name": "Patriot Exosuit",
+    "icon": "patriot-exosuit.svg"
+  },
+  {
+    "id": 42,
+    "category": 2,
+    "name": "Quasar Cannon",
+    "icon": "quasar-cannon.svg"
+  },
+  {
+    "id": 43,
+    "category": 2,
+    "name": "Railgun",
+    "icon": "railgun.svg"
+  },
+  {
+    "id": 44,
+    "category": 2,
+    "name": "Recoilless Rifle",
+    "icon": "recoilless-rifle.svg"
+  },
+  {
+    "id": 45,
+    "category": 2,
+    "name": "Shield Generator Pack",
+    "icon": "shield-generator-pack.svg"
+  },
+  {
+    "id": 46,
+    "category": 2,
+    "name": "Spear",
+    "icon": "spear.svg"
+  },
+  {
+    "id": 47,
+    "category": 2,
+    "name": "StA-X3 W.A.S.P. Launcher",
+    "icon": "sta-x3-wasp-launcher.svg"
+  },
+  {
+    "id": 48,
+    "category": 2,
+    "name": "Stalwart",
+    "icon": "stalwart.svg"
+  },
+  {
+    "id": 49,
+    "category": 2,
+    "name": "Sterilizer",
+    "icon": "sterilizer.svg"
+  },
+  {
+    "id": 50,
+    "category": 2,
+    "name": "Supply Pack",
+    "icon": "supply-pack.svg"
+  },
+  {
+    "id": 51,
+    "category": 3,
+    "name": "Anti-Personnel Minefield",
+    "icon": "anti-personnel-minefield.svg"
+  },
+  {
+    "id": 52,
+    "category": 3,
+    "name": "Anti-Tank Emplacement",
+    "icon": "anti-tank-emplacement.svg"
+  },
+  {
+    "id": 53,
+    "category": 3,
+    "name": "Anti-Tank Mines",
+    "icon": "anti-tank-mines.svg"
+  },
+  {
+    "id": 54,
+    "category": 3,
+    "name": "Autocannon Sentry",
+    "icon": "autocannon-sentry.svg"
+  },
+  {
+    "id": 55,
+    "category": 3,
+    "name": "EMS Mortar Sentry",
+    "icon": "ems-mortar-sentry.svg"
+  },
+  {
+    "id": 56,
+    "category": 3,
+    "name": "Flame Sentry",
+    "icon": "flame-sentry.svg"
+  },
+  {
+    "id": 57,
+    "category": 3,
+    "name": "Gatling Sentry",
+    "icon": "gatling-sentry.svg"
+  },
+  {
+    "id": 58,
+    "category": 3,
+    "name": "Gas Mine",
+    "icon": "gas-mine.svg"
+  },
+  {
+    "id": 59,
+    "category": 3,
+    "name": "Incendiary Mines",
+    "icon": "incendiary-mines.svg"
+  },
+  {
+    "id": 60,
+    "category": 3,
+    "name": "Grenadier Battlement",
+    "icon": "grenadier-battlement.svg"
+  },
+  {
+    "id": 61,
+    "category": 3,
+    "name": "HMG Emplacement",
+    "icon": "hmg-emplacement.svg"
+  },
+  {
+    "id": 62,
+    "category": 3,
+    "name": "Machine Gun Sentry",
+    "icon": "machine-gun-sentry.svg"
+  },
+  {
+    "id": 63,
+    "category": 3,
+    "name": "Mortar Sentry",
+    "icon": "mortar-sentry.svg"
+  },
+  {
+    "id": 64,
+    "category": 3,
+    "name": "Rocket Sentry",
+    "icon": "rocket-sentry.svg"
+  },
+  {
+    "id": 65,
+    "category": 3,
+    "name": "Shield Generator Relay",
+    "icon": "shield-generator-relay.svg"
+  },
+  {
+    "id": 66,
+    "category": 3,
+    "name": "Tesla Tower",
+    "icon": "tesla-tower.svg"
+  }
+]
