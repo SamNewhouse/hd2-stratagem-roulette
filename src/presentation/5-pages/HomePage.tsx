@@ -22,6 +22,10 @@ const HomePage: NextPage = () => {
     });
   };
 
+  const resetExcludedStratagems = () => {
+    setExcludedStratagems(new Set());
+  };
+
   const availableStratagems = Stratagems.filter(
     (s) => !excludedStratagems.has(s.id)
   );
@@ -45,6 +49,7 @@ const HomePage: NextPage = () => {
           stratagems={Stratagems}
           excluded={excludedStratagems}
           onToggle={toggleStratagem}
+          onReset={resetExcludedStratagems}
         />
 
         <button
