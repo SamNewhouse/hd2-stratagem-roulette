@@ -40,7 +40,9 @@ const StratagemDropdown = ({ stratagems, excluded, onToggle }: Props) => {
 
       <div
         className={`mt-2 overflow-visible transition-all duration-400 ${
-          open ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
+          open
+            ? "max-h-[2000px] opacity-100 pointer-events-auto"
+            : "max-h-0 opacity-0 pointer-events-none"
         }`}
       >
         <div className="bg-stone-900 p-2 sm:p-5 rounded border border-stone-700 space-y-3 sm:space-y-4 md:space-y-6">
