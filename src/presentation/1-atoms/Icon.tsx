@@ -11,15 +11,13 @@ const Icon: FC<IconProps> = ({ className, id, category, name, icon }) => {
 
   return (
     <>
-      <div key={id} id={String(id)}>
-        <Image
-          src={src}
-          alt={name}
-          width={100}
-          height={100}
-          className={`w-22 p-1${className ? " " + className : ""}`}
-        />
-      </div>
+      <Image
+        src={src}
+        alt={name}
+        width={100}
+        height={100}
+        className={`${className ? " " + className : ""}`}
+      />
     </>
   );
 };
